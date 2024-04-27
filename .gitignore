@@ -1,17 +1,3 @@
-/node_modules/
-
-# tooling artefacts
-/docs/.sass-cache/
-.eslintcache
+.DS_Store
+node_modules
 npm-debug.log
-
-# test artifacts
-coverage/
-/test/fixtures/built-sw.js
-.nyc_output
-
-# built files
-/es5
-/esm
-/cjs
-/docs/_site/
