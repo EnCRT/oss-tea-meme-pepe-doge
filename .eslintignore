@@ -1,0 +1,9 @@
+test/fixtures/*
+dist/*
+coverage/*
+es5/*
+.nyc_output/
+docs/js
+docs/_site
+esm/*
+cjs/*
